@@ -10,3 +10,4 @@ build/
 __pycache__/
 *.pyc
 core_full/fpga/_copy_hex_generated.tcl
+venv/
